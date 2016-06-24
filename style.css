@@ -1,0 +1,38 @@
+#header {
+    background-color: #FF9633;
+    font-family: Copperplate Gothic;
+    font-size: 40px;
+    font-weight : bold;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    margin: 1% 20% 1%;
+
+}
+#section {
+    background-color: lightblue;
+    font-family: Verdana;
+    font-size: 30px;
+    font-weight : bold;
+    text-align: center;
+    padding: 5px;
+    margin: 1% 40% 1%;
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+.content{
+    font-family: Helvetica;
+    border: 5px solid grey;
+    padding: 10px;
+    text-align: center;
+    margin: 1% 20% 1%;
+}
+
+@-webkit-keyframes example {
+     0%  {background-color:lightblue;}
+    25%  {background-color:lightgreen;}
+    50%  {background-color:lightgrey;}
+    75%  {background-color:lightyellow;}
+    100% {background-color:white;}
+}

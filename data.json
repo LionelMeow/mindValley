@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Ng Kok Xuan",
+    "label": "Programmer x Adventurer x Leader",
+    "email": "lionelng1122@gmail.com",
+    "phone": "(016) 763-6929",
+    "summary": "I am a Degree Year 2 student who is pursuing Software Engineering in Asia Pacific University. Passionate in learning and love facing challenges.",
+    "location": {
+      "address": "C3A-3, Wangsa Metroview Condo, Wangsa Maju Seksyen 2 ",
+      "postalCode": "53300",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia"
+    }
+  },
+  "cocurriculum": [
+    {
+      "organization": "APU Movie Junkie Club",
+      "position": "President",
+      "duration": "2015 - 2016",
+      "achievements": [
+        "Developed committee structure and job scopes for different departments",
+        "In charge communication with CGV Empire Sdn Bhd for club collaborations"
+      ]
+    },
+    {
+      "organization": "APU Student Council",
+      "position": "Event Ambassador",
+      "duration": "2015 - 2016",
+      "achievements": [
+        "Assisted in designing event designs and managing events and volunteers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Asia Pacific University",
+      "major": "Bachelor in Software Engineering",
+      "grade": "3.73"
+    },
+    {
+      "institution": "St John Institution",
+      "major": "SPM",
+      "grade": "9As"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Vice Chancellors Award for Academic Excellence",
+      "year": 2014
+    },
+    {
+      "title": "Rev Up’s Best Executed Event Award",
+      "year": 2014
+    },
+    {
+      "title": "The Sun’s MAPCU Full Scholarship",
+      "year": 2013
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML and CSS",
+      "level": "Novice"
+    },
+    {
+      "name": "Java",
+      "level": "Advanced"
+    },
+    {
+      "name": "C#",
+      "level": "Advanced"
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "OFfice Tools",
+      "level": "Master"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "Advanced"
+    },
+    {
+      "name": "Adobe Lightroom",
+      "level": "Advanced"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "Advanced"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Native speaker"
+    },
+    {
+      "name": "Chinese",
+      "level": "Native speaker"
+    },
+    {
+      "name": "Malay",
+      "level": "Fluent"
+    }
+  ],
+  "interests": {
+    "num1": "Hiking",
+    "num2": "Swimming",
+    "num3": "Jogging"
+  },
+  "references": {
+    "name": "Mrs. Vinothini Kasinathan",
+    "position": "Programme Leader",
+    "relationship": "Mentor and Lecturer",
+    "company": "Asia Pacific University"
+  }
+}
